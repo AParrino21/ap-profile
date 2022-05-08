@@ -1,4 +1,8 @@
+.App {
+  display: flex;
+}
+
 .canvas {
-  height: 500px !important;
-  background-color: black;
+  height: 1000px !important;
+  /* background-color: black; */
 }
